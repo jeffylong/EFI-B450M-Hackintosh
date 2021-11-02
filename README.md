@@ -1,3 +1,4 @@
+[点我下载](https://github.com/jeffylong/B450M-Hackintosh/releases/download/oc0.7.4_macOS12.0.1/EFI_B450M_oc0.7.4_macOS12.0.1.zip)
 ## 概述
 
 ###### MacOS ：Monterey 12.0.1
@@ -51,7 +52,7 @@
 
 3. ###### 声音
 
-   声卡驱动AppleALC默认使用layout-id=18，所音频异常，可自行替换layout-id。
+   声卡驱动AppleALC默认使用layout-id=18，若音频异常，可自行替换layout-id。
 
    [教程](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html)
 
