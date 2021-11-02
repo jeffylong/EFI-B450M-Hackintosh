@@ -21,7 +21,6 @@
 | 板载网卡（有线） | Realtek RTL8111       |
 
 
-
 ## 使用提示
 
 1. ###### 三码替换
@@ -58,13 +57,10 @@
 
    [查询可用layout-id](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)
 
+
 ## 截图展示
-
-![关于本机](系统报告)
-
-![系统报告](系统报告)
-
 ![软件](https://s3.bmp.ovh/imgs/2021/11/64cbfc52a577adc6.png)
+
 
 ## 功能测试
 
