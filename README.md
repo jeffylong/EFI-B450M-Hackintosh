@@ -1,15 +1,10 @@
-[点我下载](https://github.com/jeffylong/B450M-Hackintosh/releases/download/oc0.7.4_macOS12.0.1/EFI_B450M_oc0.7.4_macOS12.0.1.zip)
 ## 概述
 
-###### MacOS ：Monterey 12.0.1
+###### MacOS ：Ventura 13 beta1
 
-###### Opencore ：0.7.4
+###### Opencore ：0.8.2
 
-###### 更新日期 ：2021-11-02
-
-###### 功能 ：除随航sidecar外均正常
-
-
+###### 更新日期 ：2022-06-18
 
 ## 配置
 
@@ -26,7 +21,7 @@
 
 1. ###### 三码替换
 
-   我使用的SMBIOS为iMac 19,1，安全起见，强烈建议替换三码，修改config.plist。
+   我使用的SMBIOS为Mac Pro7，1，安全起见，强烈建议替换三码。
 
    路径为：config.plist - > PlatformInfo -> Generic
 
@@ -38,17 +33,11 @@
 
    附上[替换教程](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
 
-   
-
 2. ###### kexts
 
    建议根据自己的机器，替换部分kext，以达到最佳设置。
 
    USBMap.kext ：用于识别USB接口，这是我个人的USB定制，不一定适合所有人，最好自己定制；
-
-   RealtekRTL8111.kext ： 用于驱动主板的有线网卡，若板载网卡与我配置不同，可替换为相应的。
-
-   
 
 3. ###### 声音
 
@@ -82,6 +71,3 @@
   6. 睡眠
   7. iCloud服务
   8. Final Cut Pro / Photoshop / PyCharm
-
-
-
