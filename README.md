@@ -11,13 +11,18 @@
 | 项目             | 型号                  |
 | :--------------- | --------------------- |
 | CPU              | AMD Ryzen 5 3600      |
-| 主板             | 微星 B450M 迫击炮 max |
-| 显卡             | 蓝宝石 RX 460 4 GB    |
-| 无线网卡         | 博通 BCM94360 2CS     |
-| 板载网卡（有线） | Realtek RTL8111       |
+| motherboard主板  | MSI B450M mortar max |
+| GPU             | 蓝宝石 RX 460 4 GB    |
+| WLAN/Bluetooth  | 博通 BCM94360 2CS     |
+| Ethernet       |  Realtek RTL8111       |
 
+## 截图展示
+![about this mac](https://s3.bmp.ovh/imgs/2022/06/18/644508e6070ba40b.png)
+![airdrop](https://s3.bmp.ovh/imgs/2022/06/18/c83bb4b9920a223f.png)
+![](https://s3.bmp.ovh/imgs/2022/06/18/84b2ac1481bc54db.png)
+![](https://s3.bmp.ovh/imgs/2022/06/18/97f46e93ec16f842.png)
 
-## 使用提示
+## tips 使用提示
 
 1. ###### 三码替换
 
@@ -46,11 +51,6 @@
    [教程](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html)
 
    [查询可用layout-id](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)
-
-
-## 截图展示
-![软件](https://s3.bmp.ovh/imgs/2021/11/64cbfc52a577adc6.png)
-
 
 ## 功能测试
 
