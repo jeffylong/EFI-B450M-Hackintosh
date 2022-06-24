@@ -22,7 +22,7 @@
 ![](https://s3.bmp.ovh/imgs/2022/06/18/84b2ac1481bc54db.png)
 ![](https://s3.bmp.ovh/imgs/2022/06/18/97f46e93ec16f842.png)
 
-## tips 使用提示
+## 使用提示
 
 1. ###### 三码替换
 
