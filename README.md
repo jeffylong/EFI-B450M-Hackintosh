@@ -1,6 +1,6 @@
 ## 概述
 
-###### MacOS ：Ventura 13 beta1
+###### MacOS ：Ventura 13 beta2
 
 ###### Opencore ：0.8.2
 
