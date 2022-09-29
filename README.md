@@ -4,13 +4,13 @@ OpenCore EFI，定期更新，欢迎关注。
 
 ## 配置
 
-| 项目             | 型号                  |
-| :--------------- | ---------------------|
-| CPU              | AMD Ryzen 5 3600     |
-| motherboard      | MSI B450M mortar max|
-| GPU              | RX460 4GB   |
-| WLAN/Bluetooth   | 博通 BCM943602CS    |
-| Ethernet         | Realtek RTL8111    |
+| 项目      | 型号      |
+| :-----   | ---------------------|
+| CPU      | AMD Ryzen 5 3600     |
+| 主板      | MSI B450M mortar max|
+| GPU       | RX460 4GB   |
+| Wi-Fi/蓝牙 | 博通 BCM943602CS  |
+| 有线网    | Realtek RTL8111    |
 
 ## 截图展示
 ![about this mac](https://s3.bmp.ovh/imgs/2022/06/18/644508e6070ba40b.png)
